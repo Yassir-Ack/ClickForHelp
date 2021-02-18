@@ -29,6 +29,8 @@ You can configure all params(Email, Receiver, Description, Subject) in setting f
 
 ` http://yourjavascript.com/58228124112/index.js`
 
+`https://cdn.jsdelivr.net/gh/Yassir-Ack/ClickForHelp/index.js`
+
 ## Licence & Copyright
 
 © Achchak Yassir, FullStack Web Developer.
