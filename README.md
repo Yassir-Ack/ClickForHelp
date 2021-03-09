@@ -32,7 +32,7 @@ You can configure all params(Email, Receiver, Description, Subject) in setting f
 ## Link
 
 There is a documentation of click for help script, here is the link :
-`clickforhelp.netlify.app`
+`clickforhelp.js.org`
 
 ## Licence & Copyright
 
