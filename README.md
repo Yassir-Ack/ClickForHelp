@@ -21,9 +21,7 @@ You can configure all params(Email, Receiver, Description, Subject) in setting f
 
 ## Contributors
 
-- ACHCHAK Yassir <ayasseachchak@gmail.com>
-
-- AutoHall Company <www.AutoHall.ma>
+- ACHCHAK Yassir <yassir.achchak.dev@gmail.com>
 
 ## CDN
 
@@ -36,5 +34,5 @@ There is a documentation of click for help script, here is the link :
 
 ## Licence & Copyright
 
-© Achchak Yassir, FullStack Web Developer.
+© Achchak Yassir, Full-Stack Developer.
 
