@@ -15,9 +15,9 @@ You can configure all params(Email, Receiver, Description, Subject) in setting f
 **II- Structure of script**
 
 1- Create Button with DOM API.
-2- load data from setting file. 
+2- load setting data depends on version. 
 3- take a ScreenShot.
-4- send data to a specific Email.
+4- send data to the specific Email.
 
 ## Contributors
 
@@ -34,5 +34,4 @@ There is a documentation of click for help script, here is the link :
 
 ## Licence & Copyright
 
-© Achchak Yassir, Full-Stack Developer.
-
+© ACH-CHAK Yassir, Javascript Developer.
